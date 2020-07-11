@@ -1,0 +1,9 @@
+C:\Users\admin>activate tensorflow
+'activate' 不是内部或外部命令，也不是可运行的程序
+或批处理文件。
+
+C:\Users\admin>d:
+
+D:\>cd D:\pycharm\untitled\1209
+
+D:\pycharm\untitled\1209>tensorboard --logdir=D:\pycharm\untitled\1209
